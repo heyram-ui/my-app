@@ -1,6 +1,6 @@
 # FastAPI and web framework
-fastapi==0.109.0
+fastapi>=0.110.0
 python-multipart==0.0.6
 
 # Data validation
-pydantic==2.5.3
+pydantic>=2.8.0
